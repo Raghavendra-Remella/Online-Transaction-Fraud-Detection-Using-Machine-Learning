@@ -59,21 +59,7 @@ Application runs at **http://127.0.0.1:5000/**
 
 ---
 
-## **Folder Structure**
-```
-Online-Transaction-Fraud-Detection/
-│── templates/           # HTML templates (index, result pages)
-│── static/              # CSS, JS files (if any)
-│── app.py               # Flask application
-│── requirements.txt     # Python dependencies
-│── README.md            # Project documentation
-```
-
----
 
 ## **Contributing**
 Feel free to fork this repository and submit pull requests.
-
----
-
 
